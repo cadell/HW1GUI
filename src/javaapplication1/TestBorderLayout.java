@@ -181,7 +181,7 @@ public class TestBorderLayout {
     }
     
     /**
-     * The starPattern1 method, Prints a Left Triangle of stars, It does this with
+     * The starPattern1 method, Prints a pyramid Triangle of stars, It does this with
      * three for-loops it builds a string with two spaces on the first inner loop 
      * and stars on the second inner-loop and finally a new line on
      * the other loop once the outer-loop is done we add the string we built to 
